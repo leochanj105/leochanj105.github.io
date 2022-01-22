@@ -1,4 +1,4 @@
-sitemap: http://localhost:8888/sitemap.xml
+sitemap: https://leochanj105.github.io/sitemap.xml
 
 user-agent: EmailCollector
 disallow: /
