@@ -1,0 +1,4 @@
+sitemap: http://localhost:8888/sitemap.xml
+
+user-agent: EmailCollector
+disallow: /

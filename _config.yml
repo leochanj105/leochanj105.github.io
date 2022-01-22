@@ -29,6 +29,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: heiswayi/the-plain
+#theme: the-plain
 
 defaults:
   -
