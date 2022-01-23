@@ -14,7 +14,7 @@ Hi! I'm an undergraduate student at UNC-Chapel Hill majoring in Computer Science
                 Efficient and Intelligent </strong> Systems.
 
 Find me at <a href = "mailto: leocjy105@gmail.com"> leocjy105@gmail.com</a> ,  or <a href="https://github.com/leochanj105">My Github</a>!
-            Here is my <a href="https://leochanj105.github.io/assets/CV_rev1.pdf">CV.
+            Here is my <a href="https://leochanj105.github.io/assets/CV_rev1.pdf">CV</a>.
 
 <h2 id="publications">Publications</h2>
 <ol>
